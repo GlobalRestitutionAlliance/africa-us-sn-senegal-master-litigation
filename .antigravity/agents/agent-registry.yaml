@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-senegal-canal-and-intervention-historian
-  name: Senegal Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-senegal-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_sn_001
+    name: Senegal Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_002
+    name: Senegal Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_003
+    name: Senegal Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_004
+    name: Senegal Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_005
+    name: Senegal Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_006
+    name: Senegal Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_007
+    name: Senegal Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_008
+    name: Senegal Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_009
+    name: Senegal Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_010
+    name: Senegal Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_011
+    name: Senegal Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_012
+    name: Senegal Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_013
+    name: Senegal Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_014
+    name: Senegal Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_015
+    name: Senegal Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_016
+    name: Senegal Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_017
+    name: Senegal Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_018
+    name: Senegal Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_019
+    name: Senegal Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_020
+    name: Senegal Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_021
+    name: Senegal Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_022
+    name: Senegal Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_023
+    name: Senegal Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_024
+    name: Senegal Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_025
+    name: Senegal Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_026
+    name: Senegal Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_027
+    name: Senegal Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_028
+    name: Senegal Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_029
+    name: Senegal Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_030
+    name: Senegal Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_031
+    name: Senegal Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_032
+    name: Senegal Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_033
+    name: Senegal Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_034
+    name: Senegal Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_035
+    name: Senegal Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_036
+    name: Senegal Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_037
+    name: Senegal Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_038
+    name: Senegal Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_039
+    name: Senegal Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_040
+    name: Senegal Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_041
+    name: Senegal Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_042
+    name: Senegal Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_043
+    name: Senegal Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_044
+    name: Senegal Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_045
+    name: Senegal Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_046
+    name: Senegal Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_047
+    name: Senegal Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_048
+    name: Senegal Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_049
+    name: Senegal Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_050
+    name: Senegal Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_051
+    name: Senegal Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_052
+    name: Senegal Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_053
+    name: Senegal Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_054
+    name: Senegal Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_055
+    name: Senegal Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_056
+    name: Senegal Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_057
+    name: Senegal Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_058
+    name: Senegal Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_059
+    name: Senegal Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_060
+    name: Senegal Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_061
+    name: Senegal Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_062
+    name: Senegal Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_063
+    name: Senegal Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_064
+    name: Senegal Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_065
+    name: Senegal Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_066
+    name: Senegal Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_067
+    name: Senegal Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_068
+    name: Senegal Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_069
+    name: Senegal Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_070
+    name: Senegal Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_071
+    name: Senegal Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_072
+    name: Senegal Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_073
+    name: Senegal Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_074
+    name: Senegal Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_075
+    name: Senegal Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_076
+    name: Senegal Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_077
+    name: Senegal Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_078
+    name: Senegal Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_079
+    name: Senegal Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_080
+    name: Senegal Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_081
+    name: Senegal Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_082
+    name: Senegal Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_083
+    name: Senegal Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_084
+    name: Senegal Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_085
+    name: Senegal Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_086
+    name: Senegal Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_087
+    name: Senegal Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_088
+    name: Senegal Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_089
+    name: Senegal Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_090
+    name: Senegal Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_091
+    name: Senegal Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_092
+    name: Senegal Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_093
+    name: Senegal Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_094
+    name: Senegal Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_095
+    name: Senegal Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_096
+    name: Senegal Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_097
+    name: Senegal Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_098
+    name: Senegal Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_099
+    name: Senegal Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_100
+    name: Senegal Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_101
+    name: Senegal Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_102
+    name: Senegal Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_103
+    name: Senegal Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_104
+    name: Senegal Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_105
+    name: Senegal Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_106
+    name: Senegal Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_107
+    name: Senegal Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_108
+    name: Senegal Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_109
+    name: Senegal Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_110
+    name: Senegal Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_111
+    name: Senegal Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_112
+    name: Senegal Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_113
+    name: Senegal Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_114
+    name: Senegal Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_115
+    name: Senegal Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_116
+    name: Senegal Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_117
+    name: Senegal Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_118
+    name: Senegal Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_119
+    name: Senegal Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_120
+    name: Senegal Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_121
+    name: Senegal Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_122
+    name: Senegal Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_123
+    name: Senegal Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_124
+    name: Senegal Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_125
+    name: Senegal Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_126
+    name: Senegal Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_127
+    name: Senegal Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_128
+    name: Senegal Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_129
+    name: Senegal Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_130
+    name: Senegal Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_131
+    name: Senegal Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_132
+    name: Senegal Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_133
+    name: Senegal Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_134
+    name: Senegal Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_135
+    name: Senegal Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_136
+    name: Senegal Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_137
+    name: Senegal Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_138
+    name: Senegal Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_139
+    name: Senegal Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_140
+    name: Senegal Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_141
+    name: Senegal Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_142
+    name: Senegal Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_143
+    name: Senegal Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_144
+    name: Senegal Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_145
+    name: Senegal Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_146
+    name: Senegal Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_147
+    name: Senegal Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_148
+    name: Senegal Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_149
+    name: Senegal Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_150
+    name: Senegal Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_151
+    name: Senegal Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_152
+    name: Senegal Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_153
+    name: Senegal Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_154
+    name: Senegal Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_155
+    name: Senegal Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_156
+    name: Senegal Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_157
+    name: Senegal Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_158
+    name: Senegal Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_159
+    name: Senegal Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_160
+    name: Senegal Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_161
+    name: Senegal Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_162
+    name: Senegal Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_163
+    name: Senegal Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_164
+    name: Senegal Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_165
+    name: Senegal Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_166
+    name: Senegal Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_167
+    name: Senegal Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_168
+    name: Senegal Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_169
+    name: Senegal Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sn_170
+    name: Senegal Agent 170
+    status: ACTIVE_SCAFFOLD
