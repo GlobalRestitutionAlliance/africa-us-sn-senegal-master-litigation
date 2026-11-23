@@ -1,0 +1,16 @@
+{
+  "url": "https://www.unesco.org/en/routes-enslaved-peoples",
+  "final_url": "https://www.unesco.org/en/routes-enslaved-peoples",
+  "title": "UNESCO Slave Route",
+  "fetched_at": "2026-11-23T00:15:35.369603Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "Browser outerHTML capture; HTTP status not captured by eval fallback. Do not treat as authenticated or verified.",
+  "content_type": "text/html; browser-rendered",
+  "bytes": 60014,
+  "sha256": "e08c0927f02d19df6fcf7916d356c9c14132b3944b675620d06444afcd9abbcb",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "capture_method": "opencode-browse-extension+eval.outerHTML",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED"
+}

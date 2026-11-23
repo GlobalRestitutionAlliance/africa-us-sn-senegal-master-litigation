@@ -1,0 +1,13 @@
+{
+  "url": "https://whc.unesco.org/en/list/26/",
+  "final_url": "https://whc.unesco.org/en/list/26/",
+  "title": "UNESCO World Heritage - Goree Island",
+  "fetched_at": "2026-11-23T00:08:27.413379Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=UTF-8",
+  "bytes": 146778,
+  "sha256": "5c89c510f9e099972c71a73f3e5a964d4d4a948454b87296705a00be6be6d308",
+  "provenance": "direct-http-capture",
+  "custodian": "OpenCode/harvest",
+  "legal_review_status": "PENDING_LEGAL_REVIEW"
+}
