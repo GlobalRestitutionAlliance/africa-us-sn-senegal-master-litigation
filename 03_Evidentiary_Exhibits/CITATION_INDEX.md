@@ -1,6 +1,6 @@
 # Citation Index
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All PENDING_LEGAL_REVIEW.
+Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
 
 - CIT-0001: https://www.foia.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/FOIA.gov.html` | `a332b17564f822da...` | PENDING_LEGAL_REVIEW
 - CIT-0002: https://archive.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Internet_Archive.html` | `329de0d85f690421...` | PENDING_LEGAL_REVIEW
@@ -18,3 +18,13 @@ Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All PENDING_LEGAL_REVIEW.
 - CIT-0014: https://www.archives.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/US_National_Archives.html` | `b1be5889069b829d...` | PENDING_LEGAL_REVIEW
 - CIT-0015: https://en.wikisource.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Wikisource.html` | `f1f02568e88c7f73...` | PENDING_LEGAL_REVIEW
 - CIT-0016: https://search.worldcat.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/WorldCat.html` | `696e6a3e6c85e27b...` | PENDING_LEGAL_REVIEW
+- CIT-0017: https://whc.unesco.org/en/list/26/ | `03_Evidentiary_Exhibits/Immutable_Ledger/UNESCO_World_Heritage_-_Goree_Island.html` | `5c89c510f9e09997...` | PENDING_LEGAL_REVIEW
+- CIT-0018: https://chroniclingamerica.loc.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Chronicling_America_LOC_browser.html` | `05c0f0a2c7e2533c...` | PENDING_LEGAL_REVIEW
+- CIT-0019: https://www.courtlistener.com/ | `03_Evidentiary_Exhibits/Immutable_Ledger/CourtListener_browser.html` | `8dffe6afccfb6c0b...` | PENDING_LEGAL_REVIEW
+- CIT-0020: https://babel.hathitrust.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/HathiTrust_Digital_Library_browser.html` | `aed41c07ad8df3ba...` | PENDING_LEGAL_REVIEW
+- CIT-0021: https://www.justia.com/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Justia_browser.html` | `e5cfe97d067f02f1...` | PENDING_LEGAL_REVIEW
+- CIT-0022: https://www.loc.gov/item/?q=senegal+slavery | `03_Evidentiary_Exhibits/Immutable_Ledger/Library_of_Congress_-_Senegal_slavery_browser.html` | `166f7b9bf53e4834...` | PENDING_LEGAL_REVIEW
+- CIT-0023: https://digitallibrary.un.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/UN_Digital_Library_browser.html` | `0310344b2fbb1de4...` | PENDING_LEGAL_REVIEW
+- CIT-0024: https://www.ohchr.org/en/countries/senegal | `03_Evidentiary_Exhibits/Immutable_Ledger/UN_OHCHR_Senegal_browser.html` | `b529ece67b1f817b...` | PENDING_LEGAL_REVIEW
+- CIT-0025: https://www.unesco.org/en/routes-enslaved-peoples | `03_Evidentiary_Exhibits/Immutable_Ledger/UNESCO_Slave_Route_browser.html` | `9ae597c38d23c6ae...` | PENDING_LEGAL_REVIEW
+- CIT-0026: https://data.worldbank.org/country/senegal | `03_Evidentiary_Exhibits/Immutable_Ledger/World_Bank_Senegal_browser.html` | `5074649dc58e6e6a...` | PENDING_LEGAL_REVIEW
